@@ -6,7 +6,7 @@ e-Learning System :books:
 
 Fast GoTo:
 - [Abstract](https://github.com/mandeep-vratesh/learning/blob/master/README.md#abstract)
-- [How to run this code](#)
+- [How to run this code](https://github.com/mandeep-vratesh/learning/blob/master/README.md#how-to-run-the-code)
 - [What is left](#)
 - [Ask questions](#)
 
@@ -18,7 +18,7 @@ Fast GoTo:
   
 >How to run the code
 ---
-- [ ] download and install node from [here](https://nodejs.org/en/)
-- [ ] go to the root directory of the cloned project and run server.js
+- [x] download and install node from [here](https://nodejs.org/en/)
+- [x] go to the root directory of the cloned/downloaded project and run server.js
       `node server'
-- [ ] open any browser and open [localhost:3000](http://localhost:3000)
+- [x] open any browser and open [localhost:3000](http://localhost:3000)
