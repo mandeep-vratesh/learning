@@ -10,6 +10,6 @@ Fast GoTo:
 - [What is left](#)
 - [Ask questions](#)
 
-###>Abstract
+>Abstract
 ---
   The system basically takes an input expression (currently based on _Operator Precedence_ only) and 
