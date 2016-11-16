@@ -29,9 +29,39 @@ Fast GoTo:
 >Database structure
 ---
 
+1. users
+  - user_id
+  - user_name
+  - user_email
+  - user_password
+  - user_points
+2. problems
+  - problem_id
+  - problem_title
+  - problem_statement
+  - problem_share_level
+      * only_me_read-write
+      * link_read
+      * link_read-write
+      * anyone
+  - owner_id
+  - users_involved
+      * user_id 1
+      * user_id 2
+      * ...
+  - problem_complexity
+  
 >What you may add
 ---
 
->Questions/doubts/suggestions
+- [] a login screen.
+- [] a parser program in javascript(or any other language) to check if the input expression is correct or not.
+- [] a program that generates a text-hint based on the current expression in the input field.
+
+>Questions/doubts/suggestions :raised_hand:
 ---
-(add your question/doubt/suggestion by commiting this section)
+
+(add your question/doubt/suggestion by commiting this section or mail me at mandeep.vratesh@gmail.com)
+
+1. Can you show a flow chart of the complete project for a better understanding ?
+  - Sure, soon I'll update readme with a flowchart.
