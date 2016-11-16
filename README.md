@@ -7,8 +7,9 @@ e-Learning System :books:
 Fast GoTo:
 - [Abstract](https://github.com/mandeep-vratesh/learning/blob/master/README.md#abstract)
 - [How to run this code](https://github.com/mandeep-vratesh/learning/blob/master/README.md#how-to-run-the-code)
-- [What is left](#)
-- [Ask questions](#)
+- [Database structure](https://github.com/mandeep-vratesh/learning/blob/master/README.md#database-structure)
+- [What you may add](https://github.com/mandeep-vratesh/learning/blob/master/README.md#what-you-may-add)
+- [Ask questions](https://github.com/mandeep-vratesh/learning/blob/master/README.md#ask-questions)
 
 >Abstract
 ---
@@ -24,3 +25,13 @@ Fast GoTo:
 - [x] go to the root directory of the cloned/downloaded project and run server.js
       `node server'
 - [x] open any browser and open [localhost:3000](http://localhost:3000)
+
+>Database structure
+---
+
+>What you may add
+---
+
+>Questions/doubts/suggestions
+---
+(add your question/doubt/suggestion by commiting this section)
