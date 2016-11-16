@@ -6,5 +6,8 @@ e-Learning System :books:
 
 Fast GoTo:
 - [Abstract](#The)
+- [How to run this code](#)
+- [What is left](#)
+- [Ask questions](#)
 
-  #The system basically takes an input expression (currently based on _Operator Precedence_ only) and 
+  The system basically takes an input expression (currently based on _Operator Precedence_ only) and 
