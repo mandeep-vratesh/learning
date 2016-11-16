@@ -5,7 +5,7 @@ e-Learning System :books:
 ---
 
 Fast GoTo:
-- [Abstract](#The)
+- [Abstract](https://github.com/mandeep-vratesh/learning/blob/master/README.md#abstract)
 - [How to run this code](#)
 - [What is left](#)
 - [Ask questions](#)
