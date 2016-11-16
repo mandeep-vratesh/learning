@@ -1,0 +1,61 @@
+<!DOCTYPE html >
+<html ng-app="learning">
+<head>
+	<title>E-learning</title>
+	<link rel="shortcut icon" href="/learning/client/images/favicon.ico" type="icon">
+	<link rel="stylesheet" href="/learning/client/views/index.css">
+	<link rel="stylesheet" href="/learning/client/views/chatbubble.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+</head>
+<body ng-controller="MainCtrl">
+	<!-- new variables will be displayed here -->
+	<div class="header">
+		<p style="font-size: 400%; color: white; margin-left: 10%">e-Learning</p>
+	</div>
+
+	<!-- to display the previous steps -->
+	<div class="previous-steps">
+		
+		<div class="steps">
+		</div>
+		
+		<div class="current-expression-input">
+			<input type="text" name="input" ng-keyup="checkIfValid($event)" id="input">
+		</div>
+	</div>
+
+	<!-- to display the hints -->
+		<div class="talk-bubble tri-right border round btm-right-in hints">
+		  <div class="talktext">
+		    <p>{{hint}}</p>
+		  </div>
+		</div>
+		<div>
+			<img id="our-hero" src="/learning/client/images/thinker.png">
+		</div>
+
+	<!-- for the "hint" button -->
+	<div class="footer">
+		<button id="hint" ng-click="showHint()">Click for a hint !</button>
+	</div>
+
+	<script src="/learning/client/app.js"></script>
+	<script src="/learning/client/controllers/clientController.js"></script>
+	<script src="/learning/client/controllers/textInputController.js"></script>
+	<script>
+		$(".hints").hide();
+		$("#our-hero").hide();
+		//include jquery
+		//add a script to add on click new hint
+		$(document).ready(function() {
+          setInterval(function() {
+                $( "#hint" ).effect( "shake" );
+          },30000);
+        });
+	</script>
+</body>
+</html>
