@@ -54,9 +54,9 @@ Fast GoTo:
 >What you may add
 ---
 
-- [] a login screen.
-- [] a parser program in javascript(or any other language) to check if the input expression is correct or not.
-- [] a program that generates a text-hint based on the current expression in the input field.
+- [ ] a login screen.
+- [ ] a parser program in javascript(or any other language) to check if the input expression is correct or not.
+- [ ] a program that generates a text-hint based on the current expression in the input field.
 
 >Questions/doubts/suggestions :raised_hand:
 ---
