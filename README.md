@@ -9,7 +9,7 @@ Fast GoTo:
 - [How to run this code](https://github.com/mandeep-vratesh/learning/blob/master/README.md#how-to-run-the-code)
 - [Database structure](https://github.com/mandeep-vratesh/learning/blob/master/README.md#database-structure)
 - [What you may add](https://github.com/mandeep-vratesh/learning/blob/master/README.md#what-you-may-add)
-- [Ask questions](https://github.com/mandeep-vratesh/learning/blob/master/README.md#ask-questions)
+- [Ask questions](https://github.com/mandeep-vratesh/learning/blob/master/README.md#questionsdoubtssuggestions-raised_hand)
 
 >Abstract
 ---
