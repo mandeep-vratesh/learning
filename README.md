@@ -23,7 +23,9 @@ Fast GoTo:
 
 - [x] download and install node from [here](https://nodejs.org/en/)
 - [x] go to the root directory of the cloned/downloaded project and run server.js
-      `node server'
+
+      `node server`
+      
 - [x] open any browser and open [localhost:3000](http://localhost:3000)
 
 >Database structure
