@@ -21,4 +21,4 @@ Fast GoTo:
 - [ ] download and install node from [here](https://nodejs.org/en/)
 - [ ] go to the root directory of the cloned project and run server.js
       `node server'
-- [ ] open any browser and open [localhost:3000](localhost:3000)
+- [ ] open any browser and open [localhost:3000](http://localhost:3000)
